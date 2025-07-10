@@ -1,1 +1,5 @@
-# dad
+[index.txt](https://github.com/user-attachments/files/21162416/index.txt)
+[dad.txt](https://github.com/user-attachments/files/21162417/dad.txt)
+[unforgetfulmoments.txt](https://github.com/user-attachments/files/21162432/unforgetfulmoments.txt)
+[minigifts.txt](https://github.com/user-attachments/files/21162433/minigifts.txt)
+[dua.txt](https://github.com/user-attachments/files/21162434/dua.txt)
